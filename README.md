@@ -8,5 +8,6 @@
 • | 📁 HTML
 • | 📁 CSS
 • | 📁 BOOTSTRAP
+• | 📁 JAVASCRPIT
 
-• |💻 Fiz pequenas animação com CSS e usei Booststrap com Carrosel "Fiz no intuito de Pratica"
+• |💻 Fiz pequenas animação com CSS e usei Booststrap com Carrosel JS Para fazer menu lateral "Fiz no intuito de Pratica"
