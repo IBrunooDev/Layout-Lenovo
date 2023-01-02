@@ -166,14 +166,3 @@ img{
 p {
   font-size: 30px;
 }
-
-.buy {
-  background-color: #40407574;
-  border-radius: 10px;
-  padding: 3px;
-  transition: 1s;
-}
-.buy:hover{
-  transform: translateY(-3px);
-  background-color: #0004ff28;
-}
